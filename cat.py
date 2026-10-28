@@ -1,2 +1,4 @@
 print("Hello")
-print("Namaste")
+print("Hii")
+print("How are you!!")
+print("name")
